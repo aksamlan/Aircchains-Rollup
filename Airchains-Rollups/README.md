@@ -7,9 +7,8 @@
 
 
 ### Linkler
- * [Hercules Telegram](https://t.me/HerculesNode)
- * [Hercules Twitter](https://twitter.com/Herculesnode)
- * [Hercules Web](https://herculesnode.xyz)
+ * [HusoNode Telegram](https://t.me/huseyinntr)
+ * [HusoNode Twitter](https://twitter.com/huseyinntr)
 
 
 ## 🟢 Sistem özellikleri
