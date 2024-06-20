@@ -136,7 +136,6 @@ go run cmd/main.go init --daRpc "avail" --daKey "İLK VERDİĞİ KEYİ YAZ" --da
 go run cmd/main.go keys junction --accountName HESAP-İSMİ-YAZIN --accountPath $HOME/.tracks/junction-accounts/keys
 ```
 
-![image](https://github.com/HerculesNode/Testnet-Rehber/assets/101635385/069b4cae-63e3-4531-b0e6-b486c8dcf368)
 
 
 - Power başlatın
